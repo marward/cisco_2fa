@@ -1,14 +1,14 @@
-# # cisco_2fa
+## cisco_2fa
 # Automate Cisco Anyconnect VPN connection
 
-# # installation 
+## installation 
 ```
 pip install --upgrade pip
 
 pip install pyotp
 ```
 
-# # usage 
+## usage 
 
 # replace **login**, **password** and **domain** with your values
 ```
