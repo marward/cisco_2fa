@@ -1,16 +1,16 @@
-## cisco_2fa
-# Automate Cisco Anyconnect VPN connection
+# cisco_2fa
+## Automate Cisco Anyconnect VPN connection
 
-## installation 
+# installation 
 ```
 pip install --upgrade pip
 
 pip install pyotp
 ```
 
-## usage 
+# usage 
 
-# replace **login**, **password** and **domain** with your values
+## replace **login**, **password** and **domain** with your values
 ```
 alias cisco='python3 /Users/user/otp_util/get_otp.py'
 alias disc='/opt/cisco/anyconnect/bin/vpn disconnect'
